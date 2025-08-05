@@ -27,75 +27,75 @@ document.addEventListener('DOMContentLoaded', function() {
     const cars = [
         {
             id: 1,
-            name: 'Porsche 911 Turbo S',
-            price: '$203,500',
-            year: '2023',
+            name: 'Mahindra Thar Black',
+            price: '₹21.92 Lakh ',
+            year: '2022',
             miles: '1,200',
             type: 'sports',
-            image: 'https://images.unsplash.com/photo-1555215695-3004980ad54e'
+            image: 'https://imgd.aeplcdn.com/370x208/n/qy7pp0b_1638615.jpg?q=80'
         },
         {
             id: 2,
-            name: 'Mercedes-Benz S-Class',
-            price: '$118,950',
-            year: '2023',
+            name: 'SUV',
+            price: '₹208,950',
+            year: '2024',
             miles: '3,500',
             type: 'luxury',
-            image: 'https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8'
+            image: 'https://stimg.cardekho.com/images/carexteriorimages/630x420/Skoda/Kushaq/11795/1741783334851/front-left-side-47.jpg'
         },
         {
             id: 3,
             name: 'Range Rover Autobiography',
-            price: '$167,500',
-            year: '2023',
+            price: '₹257,500',
+            year: '2022',
             miles: '2,800',
             type: 'suv',
-            image: 'https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7'
+            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8vYIFXZb-clQsyEE39F9Qt5cNlUOc-TOVLA&s'
         },
         {
             id: 4,
             name: 'Audi R8 V10',
-            price: '$148,700',
-            year: '2023',
+            price: '₹296,388',
+            year: '2026',
             miles: '1,500',
             type: 'sports',
-            image: 'https://images.unsplash.com/photo-1606220838315-056192d5e927'
+            image: 'https://upload.wikimedia.org/wikipedia/commons/f/f1/2020_Audi_R8_V10_5.2_Front.jpg'
         },
         {
             id: 5,
             name: 'BMW 7 Series',
-            price: '$96,400',
+            price: '₹185,599',
             year: '2023',
             miles: '4,200',
             type: 'luxury',
-            image: 'https://images.unsplash.com/photo-1555215695-3004980ad54e'
+            image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvAxpRu-dx92722fBzDjXAwkyvjNxeUBTHHw&s'
         },
         {
             id: 6,
             name: 'Lamborghini Urus',
-            price: '$225,000',
-            year: '2023',
+            price: '₹168,999',
+            year: '2024',
             miles: '1,800',
             type: 'suv',
-            image: 'https://images.unsplash.com/photo-1558981806-ec527fa84c39'
+            image: 'https://images.barrons.com/im-292011/social'
         },
         {
             id: 7,
             name: 'Ferrari 488 GTB',
-            price: '$335,000',
-            year: '2023',
+            price: '₹205,666',
+            year: '2024',
             miles: '900',
             type: 'sports',
-            image: 'https://images.unsplash.com/photo-1593941707882-a5bba53b0998'
+            image: 'https://www.exoticcarhacks.com/wp-content/uploads/2024/03/dJwef-iS-scaled.jpeg'
         },
         {
             id: 8,
             name: 'Rolls-Royce Ghost',
-            price: '$332,500',
-            year: '2023',
+            price: '₹186,556',
+            year: '2024',
             miles: '2,300',
             type: 'luxury',
-            image: 'https://images.unsplash.com/photo-1624704761431-6ad2f001dd59'
+            image: 'https://www.alainclass.com/wp-content/uploads/2021/10/2020-Rolls-Royce-Ghost-Silver-Collection-1-of-35-SILVER-4015-3.jpg'
         }
     ];
     
