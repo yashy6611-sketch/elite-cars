@@ -125,7 +125,7 @@ nav ul li a:hover, nav ul li a.active {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://images.unsplash.com/photo-1494972308805-463bc619d34e') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fkannada.goodreturns.in%2Fpersonal-finance%2Frolls-royce-posts-record-car-sales-in-2022-details-in-kannada-015566.html&psig=AOvVaw2Kx5NwyBS-CbFgd3GOefRa&ust=1754461766494000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDlj5mG844DFQAAAAAdAAAAABAE') no-repeat center center/cover;
     display: flex;
     align-items: center;
     text-align: center;
@@ -635,3 +635,4 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
