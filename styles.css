@@ -108,7 +108,7 @@ nav ul {
 }
 
 nav ul li a {
-    color: white;
+    color: red;
     text-decoration: none;
     padding: 10px 20px;
     font-weight: 500;
@@ -1272,3 +1272,4 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
