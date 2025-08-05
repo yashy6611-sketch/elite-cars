@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
             year: '2024',
             miles: '2,300',
             type: 'luxury',
-            image: 'https://www.alainclass.com/wp-content/uploads/2021/10/2020-Rolls-Royce-Ghost-Silver-Collection-1-of-35-SILVER-4015-3.jpg'
+            image: 'https://hips.hearstapps.com/hmg-prod/images/2025-rolls-royce-ghost-ii-29-67053b7543813.jpg?crop=0.580xw:0.438xh;0.260xw,0.391xh&resize=2048:*'
         }
     ];
     
@@ -237,3 +237,4 @@ document.addEventListener('DOMContentLoaded', function() {
 function showCarDetails(carId) {
     alert(`Showing details for car ID: ${carId}\nThis would typically open a detailed modal with more information.`);
 }
+
