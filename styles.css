@@ -129,7 +129,7 @@ nav ul li a:hover, nav ul li a.active {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS6arSdsob5n27JxSwq2MpMhjQse-BM6xyiw&ss') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS6arSdsob5n27JxSwq2MpMhjQse-BM6xyiw&ss') no-repeat center center/cover;
     display: flex;
     align-items: center;
     text-align: center;
@@ -1272,4 +1272,5 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+
 
